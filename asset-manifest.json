@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/async-redux/static/css/main.6e949f8b.css",
+    "main.js": "/async-redux/static/js/main.ac6424ec.js",
+    "index.html": "/async-redux/index.html",
+    "main.6e949f8b.css.map": "/async-redux/static/css/main.6e949f8b.css.map",
+    "main.ac6424ec.js.map": "/async-redux/static/js/main.ac6424ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e949f8b.css",
+    "static/js/main.ac6424ec.js"
+  ]
+}
